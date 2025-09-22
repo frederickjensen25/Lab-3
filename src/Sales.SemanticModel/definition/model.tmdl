@@ -19,7 +19,7 @@ annotation BestPracticeAnalyzer_IgnoreRules = {"RuleIDs":["PARTITION_NAME_SHOULD
 
 annotation __TEdtr = 1
 
-annotation PBI_ProTooling = ["DevMode","CalcGroup"]
+annotation PBI_ProTooling = ["DevMode","CalcGroup","TMDLView_Desktop"]
 
 ref table Calendar
 ref table Sales
